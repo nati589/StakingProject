@@ -15,7 +15,7 @@ This project implements a staking protocol using Chromia, Rell, and the FT4 libr
 ### Setup Instructions
 1. **Clone the Repository:**
    ```sh
-   git clone [repository_url]
+   git clone [[repository_url]](https://github.com/nati589/StakingProject)
    cd StakingProject
    ```
 2. **Install Dependencies:**
